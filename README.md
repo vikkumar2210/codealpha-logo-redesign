@@ -1,7 +1,3 @@
-CodeAlpha Logo Redesign 
-
-This project is part of the CodeAlpha Graphic Designing Internship.
-
 ## 📌 Objective
 Redesign an existing logo to give it a fresh, modern, and visually appealing look while maintaining brand identity.
 
